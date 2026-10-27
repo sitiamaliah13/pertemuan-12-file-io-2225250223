@@ -1,0 +1,5 @@
+Jumlah data: 5
+Rata-rata: 83.40
+Nilai minimum: 74.0
+Nilai maksimum: 92.0
+Jumlah lulus (>= 60): 5
