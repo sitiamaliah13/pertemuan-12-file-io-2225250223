@@ -59,11 +59,18 @@ python tugas/rekap_nilai_file.py
 
 ## Hasil Pengujian
 
-Jumlah data valid: 5  
-Rata-rata: 83.40  
-Minimum: 74.00  
-Maksimum: 92.00  
-Jumlah lulus: 5  
+## Pengujian
+
+Program telah diuji dengan menjalankan latihan dan tugas rekap nilai.
+
+Hasil pengujian:
+- Jumlah data: 5
+- Rata-rata: 83.40
+- Nilai minimum: 74.0
+- Nilai maksimum: 92.0
+- Jumlah lulus (>= 60): 5
+
+Pengujian juga dilakukan pada kondisi file tidak ditemukan dan input nilai tidak valid untuk memastikan error dapat ditangani dengan baik.
 
 ## Refleksi
 
