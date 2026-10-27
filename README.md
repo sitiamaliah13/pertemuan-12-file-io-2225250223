@@ -67,9 +67,9 @@ Jumlah lulus: 5
 
 ## Refleksi
 
-Error yang ditemukan adalah ValueError ketika nilai A004 berisi teks "abc". Program menangani error tersebut dengan try-except sehingga baris yang tidak valid dilewati dan data lainnya tetap dapat diproses.
+Error yang ditemukan adalah ValueError ketika nilai A004 berisi teks "abc". Program menangani error tersebut dengan try-except sehingga baris yang tidak valid ## Refleksi
 
-FileNotFoundError juga ditangani agar program tidak berhenti secara kasar ketika file input tidak ditemukan.
+Pada Pertemuan 12 saya belajar menggunakan file I/O untuk membaca dan menulis data menggunakan Python. Saya juga belajar menggunakan try-except untuk menangani error seperti FileNotFoundError dan ValueError. Dari latihan dan tugas rekap nilai, saya memahami bahwa data perlu divalidasi sebelum diproses agar hasil program lebih aman dan sesuai.
 
 ## Bantuan
 
